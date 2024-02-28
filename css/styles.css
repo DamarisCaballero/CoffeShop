@@ -53,9 +53,10 @@
     }
     
     .banner {
-        background-color: #007bff; /* Color de fondo */
-        color: #df1010; /* Color del texto */
+        background-color: #030303; /* Color de fondo */
+        color: #fdf9f9; /* Color del texto */
         text-align: center; /* Alineación del texto */
         padding: 20px 0; /* Relleno superior e inferior */
+        margin-top: 20px;
     }
     
