@@ -1,6 +1,4 @@
-    /* Estilos personalizados */
 
-/* Estilos personalizados para el navbar */
 
 /* Color de fondo y estilos del navbar */
 .navbar {
@@ -16,7 +14,7 @@
     
     /* Estilos para el pie de página */
     .footer {
-        background-color: #f8f9fa; /* Color de fondo */
+        background-color: #0f77e0; /* Color de fondo */
     }
     
     /* Estilos para el formulario */
@@ -28,7 +26,11 @@
     .carousel-item img {
         height: 400px; /* Altura de las imágenes del carrusel */
     }
-    
+
+    .container {
+        margin-top: 20px; /* Margen superior */
+    }
+
     /* Estilos para las imágenes */
     .img-fluid {
         margin-bottom: 20px; /* Espaciado inferior */
@@ -42,5 +44,18 @@
     /* Estilos para el mapa */
     .embed-responsive {
         margin-bottom: 20px; /* Espaciado inferior */
+    }
+/****************************************/
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .banner {
+        background-color: #007bff; /* Color de fondo */
+        color: #df1010; /* Color del texto */
+        text-align: center; /* Alineación del texto */
+        padding: 20px 0; /* Relleno superior e inferior */
     }
     
