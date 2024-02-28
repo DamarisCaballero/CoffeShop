@@ -1,5 +1,13 @@
     /* Estilos personalizados */
 
+/* Estilos personalizados para el navbar */
+
+/* Color de fondo y estilos del navbar */
+.navbar {
+    border-radius: 0; /* Bordes rectos */
+}
+
+
     /* Estilos para el cuerpo de la página */
     body {
         padding-top: 70px; /* Ajuste para el navbar */
