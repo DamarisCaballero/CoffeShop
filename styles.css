@@ -1,0 +1,38 @@
+    /* Estilos personalizados */
+
+    /* Estilos para el cuerpo de la página */
+    body {
+        padding-top: 70px; /* Ajuste para el navbar */
+        font-family: Arial, sans-serif; /* Fuente predeterminada */
+    }
+    
+    /* Estilos para el pie de página */
+    .footer {
+        background-color: #f8f9fa; /* Color de fondo */
+    }
+    
+    /* Estilos para el formulario */
+    .form-control {
+        margin-bottom: 10px; /* Espaciado inferior */
+    }
+    
+    /* Estilos para el carrusel */
+    .carousel-item img {
+        height: 400px; /* Altura de las imágenes del carrusel */
+    }
+    
+    /* Estilos para las imágenes */
+    .img-fluid {
+        margin-bottom: 20px; /* Espaciado inferior */
+    }
+    
+    /* Estilos para el video */
+    .embed-responsive-item {
+        border-radius: 5px; /* Bordes redondeados */
+    }
+    
+    /* Estilos para el mapa */
+    .embed-responsive {
+        margin-bottom: 20px; /* Espaciado inferior */
+    }
+    
